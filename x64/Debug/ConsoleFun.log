@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(157,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(219,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(219,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(218,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(218,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(217,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(217,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cadel Monterde\source\repos\ConsoleFun\ConsoleFun\Source.cpp(369,20): warning C4018: '<': signed/unsigned mismatch
+  ConsoleFun.vcxproj -> C:\Users\Cadel Monterde\source\repos\ConsoleFun\x64\Debug\ConsoleFun.exe
